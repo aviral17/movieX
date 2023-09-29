@@ -1,0 +1,19 @@
+/ ***************************************************** ********************************************************** ************************************************************ ********* /
+
+We all Know that normally browser shows webpage contents from left to right thats why we using `left` in scrollTo and/or using scrollLeft
+
+/ ***************************************************** ********************************************************** ************************************************************ ********* /
+
+/* offsetWidth is a property of an element in the DOM (Document Object Model) that represents the width of the content of an element including padding and border but excluding margin. It is used in this code to calculate the scroll amount for the container. When navigating left, it subtracts the current scrollLeft value of the container by the offsetWidth plus 20 pixels, and when navigating right, it adds the scrollLeft value of the container by the offsetWidth plus 20 pixels.
+
+scrollLeft is a property of an element in the DOM that represents the number of pixels that an element's content is currently scrolled from its left edge. It is used in this code to determine the current position of the scroll for the container.
+
+scrollTo is a method of an element in the DOM that scrolls the element to a particular set of coordinates in the document. It is used in this code to scroll the container to the new position calculated based on the navigation direction and the offsetWidth. The behaviour property is set to "smooth" to animate the scrolling. */
+
+/* #TODO: The `container.offsetWidth` refers to the visible width of the carousel container element, which may be smaller than the total width of the carousel content.
+ The container.scrollLeft property represents the current horizontal scroll position of the container element, which starts at 0 when the carousel is first rendered. By changing the scrollLeft value, we can scroll the content left or right within the visible portion of the container element. */
+
+/ ***************************************************** ********************************************************** ************************************************************ ********* /
+
+
+The left property inside scrollTo() sets the scrollLeft property of the container. When you pass the scrollAmount as the value of left property, it updates the scrollLeft value of the container, which is responsible for horizontal scrolling of the content inside the container.

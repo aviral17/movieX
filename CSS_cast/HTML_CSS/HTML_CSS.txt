@@ -1,0 +1,468 @@
+HTML:  
+
+<section class="flex justify-center bg-volcanic-900 snipcss-ZJrU8">
+  <div class=" flex w-full flex-col py-5 md:flex-row md:items-center lg:max-w-full-screen lg:py-8">
+    <p class="text-3xs uppercase font-body ml-5 mb-5 whitespace-nowrap text-white md:mx-12 md:mb-0">
+      Our Customers
+    </p>
+    <div class="relative flex overflow-hidden">
+      <div class="absolute top-0 z-50 h-full w-[100px] md:from-volcanic-900 md:bg-gradient-to-r">
+      </div>
+      <div class="flex h-8 animate-scroll items-center justify-around lg:h-10 style-VHz76" id="style-VHz76">
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Hasura Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-otONx" src="https://cdn.sanity.io/images/rjtqmwfu/production/459e7e864152da133302d9df78f8c6858e0987eb-135x40.svg" id="style-otONx">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="HyperWrite Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-ZkrPq" src="https://cdn.sanity.io/images/rjtqmwfu/production/03854ed3ed2c7de6fff5a18f71c74e69c806ce8e-158x40.svg" id="style-ZkrPq">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Spotify Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-zm3ni" src="https://cdn.sanity.io/images/rjtqmwfu/production/87d1b1cfe344f410e65d10143f41fb1bbd9456ee-132x40.svg" id="style-zm3ni">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Longshot Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-7faAL" src="https://cdn.sanity.io/images/rjtqmwfu/production/d541d1f4f824d910ec282cb82cd9ec33d30c21d1-175x40.svg" id="style-7faAL">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Jasper Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-ftp9P" src="https://cdn.sanity.io/images/rjtqmwfu/production/ed6199600b8f6aae5ae9874812136adc28586ebb-139x40.svg" id="style-ftp9P">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Helvia Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-joYBX" src="https://cdn.sanity.io/images/rjtqmwfu/production/65d9fc462db738b127ab2520c3a61e73edd0d693-131x40.svg" id="style-joYBX">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="BambooHR Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-O9p6E" src="https://cdn.sanity.io/images/rjtqmwfu/production/2f8c848876229d6c152bfddc71bb1f20e6ead29d-167x40.svg" id="style-O9p6E">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Glean Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-gVSyF" src="https://cdn.sanity.io/images/rjtqmwfu/production/d0fd3426ef70eeb66550d83cbf99f720893fcbad-101x40.svg" id="style-gVSyF">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Spotify Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-l12Rf" src="https://cdn.sanity.io/images/rjtqmwfu/production/87d1b1cfe344f410e65d10143f41fb1bbd9456ee-132x40.svg" id="style-l12Rf">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="DeepJudge Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-B5OM1" src="https://cdn.sanity.io/images/rjtqmwfu/production/259b805dbb13d9fb93b667001a57b0a7321f65ce-178x40.svg" id="style-B5OM1">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Casetext Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-NGMHw" src="https://cdn.sanity.io/images/rjtqmwfu/production/f092e435578787bc96d7959922f0941612be5f14-171x40.svg" id="style-NGMHw">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="BambooHR Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-YNYHj" src="https://cdn.sanity.io/images/rjtqmwfu/production/2f8c848876229d6c152bfddc71bb1f20e6ead29d-167x40.svg" id="style-YNYHj">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Flowrite Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-kqGDn" src="https://cdn.sanity.io/images/rjtqmwfu/production/82b92396be531a5c59843e54d9c59ea86cbf8aed-142x40.svg" id="style-kqGDn">
+        </div>
+      </div>
+      <div class="flex h-8 animate-scroll items-center justify-around lg:h-10 style-3pMO2" id="style-3pMO2">
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Hasura Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-tFhjU" src="https://cdn.sanity.io/images/rjtqmwfu/production/459e7e864152da133302d9df78f8c6858e0987eb-135x40.svg" id="style-tFhjU">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="HyperWrite Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-Ol93q" src="https://cdn.sanity.io/images/rjtqmwfu/production/03854ed3ed2c7de6fff5a18f71c74e69c806ce8e-158x40.svg" id="style-Ol93q">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Spotify Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-SATXs" src="https://cdn.sanity.io/images/rjtqmwfu/production/87d1b1cfe344f410e65d10143f41fb1bbd9456ee-132x40.svg" id="style-SATXs">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Longshot Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-N8RL9" src="https://cdn.sanity.io/images/rjtqmwfu/production/d541d1f4f824d910ec282cb82cd9ec33d30c21d1-175x40.svg" id="style-N8RL9">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Jasper Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-3FVZ1" src="https://cdn.sanity.io/images/rjtqmwfu/production/ed6199600b8f6aae5ae9874812136adc28586ebb-139x40.svg" id="style-3FVZ1">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Helvia Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-dIp9e" src="https://cdn.sanity.io/images/rjtqmwfu/production/65d9fc462db738b127ab2520c3a61e73edd0d693-131x40.svg" id="style-dIp9e">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="BambooHR Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-lYlXT" src="https://cdn.sanity.io/images/rjtqmwfu/production/2f8c848876229d6c152bfddc71bb1f20e6ead29d-167x40.svg" id="style-lYlXT">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Glean Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-whV8O" src="https://cdn.sanity.io/images/rjtqmwfu/production/d0fd3426ef70eeb66550d83cbf99f720893fcbad-101x40.svg" id="style-whV8O">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Spotify Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-wBjcN" src="https://cdn.sanity.io/images/rjtqmwfu/production/87d1b1cfe344f410e65d10143f41fb1bbd9456ee-132x40.svg" id="style-wBjcN">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="DeepJudge Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-8VHd4" src="https://cdn.sanity.io/images/rjtqmwfu/production/259b805dbb13d9fb93b667001a57b0a7321f65ce-178x40.svg" id="style-8VHd4">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Casetext Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-h5sgm" src="https://cdn.sanity.io/images/rjtqmwfu/production/f092e435578787bc96d7959922f0941612be5f14-171x40.svg" id="style-h5sgm">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="BambooHR Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-1VOJ3" src="https://cdn.sanity.io/images/rjtqmwfu/production/2f8c848876229d6c152bfddc71bb1f20e6ead29d-167x40.svg" id="style-1VOJ3">
+        </div>
+        <div class="flex h-8 items-center md:p-1 lg:h-10 lg:px-2 lg:py-2">
+          <img alt="Flowrite Logo" loading="eager" width="0" height="0" decoding="async" data-nimg="1" class="h-auto w-full object-contain !h-10 style-5CoHR" src="https://cdn.sanity.io/images/rjtqmwfu/production/82b92396be531a5c59843e54d9c59ea86cbf8aed-142x40.svg" id="style-5CoHR">
+        </div>
+      </div>
+      <div class="absolute top-0 z-50 h-full w-[100px] md:from-volcanic-900 right-0 md:bg-gradient-to-l">
+      </div>
+    </div>
+  </div>
+</section>
+
+/************************************************************------------------------------------------------*************************************** */
+
+CSS:  
+
+@font-face { 
+  font-family:CohereText;
+  src:url(https://cohere.com/_next/static/media/CohereText-Regular.870d4a70.woff2) format("woff2"),url(https://cohere.com/_next/static/media/CohereText-Regular.e692f006.woff) format("woff");
+  font-weight:400;
+  font-style:normal;
+  font-display:swap;
+} 
+@font-face { 
+  font-family:CohereText;
+  src:url(https://cohere.com/_next/static/media/CohereVariable.e68773ed.woff2) format("woff2"),url(https://cohere.com/_next/static/media/CohereVariable.a0eb37f8.woff) format("woff");
+  font-weight:500 525;
+  font-style:normal;
+  font-display:swap;
+} 
+body { 
+/* CSS Variables that may have been missed get put on body */ 
+    --tw-bg-opacity:  1;  
+    --tw-text-opacity:  1;  
+    --tw-gradient-from:  #212121;  
+    --tw-gradient-to:  rgba(33,33,33,0);  
+    --tw-gradient-stops:  var(--tw-gradient-from),var(--tw-gradient-to); 
+} 
+
+* { 
+    box-sizing:   border-box; 
+    border:   0 solid #e5e7eb;
+    font-variant-ligatures: none;
+} 
+
+*  { 
+    font-weight: 400; 
+    line-height: 1em;
+} 
+
+.h-full { 
+    height: 100%;
+} 
+
+body { 
+    font-family:    CohereText,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji; 
+    font-size:    16px; 
+    -webkit-font-smoothing:   antialiased; 
+    -moz-osx-font-smoothing:   grayscale; 
+    background-color:   #fafafa; 
+    font-weight:   400;
+    margin:  0; 
+    line-height:  inherit;
+    padding-left: min(0vmin,env(safe-area-inset-left)); 
+    padding-right: min(0vmin,env(safe-area-inset-right));
+} 
+
+html { 
+    line-height: 1.5; 
+    -webkit-text-size-adjust: 100%; 
+    -moz-tab-size: 4; 
+    -o-tab-size: 4; 
+    tab-size: 4; 
+    font-family: ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+} 
+
+section { 
+    overflow: hidden;
+} 
+
+.flex { 
+    display: flex;
+} 
+
+.justify-center { 
+    justify-content: center;
+} 
+
+.bg-volcanic-900 { 
+    --tw-bg-opacity: 1; 
+    background-color: rgb(33 33 33/var(--tw-bg-opacity));
+} 
+
+*,:after,:before { 
+    box-sizing: border-box; 
+    border: 0 solid #e5e7eb;
+} 
+
+.w-full { 
+    width: 100%;
+} 
+
+.flex-col { 
+    flex-direction: column;
+} 
+
+.py-5 { 
+    padding-top: 1.25rem; 
+    padding-bottom: 1.25rem;
+} 
+
+@media (min-width: 768px){ 
+  .md\:flex-row { 
+    flex-direction: row;
+  } 
+
+  .md\:items-center { 
+    align-items: center;
+  } 
+}     
+
+@media (min-width: 1024px){ 
+  .lg\:max-w-full-screen { 
+    max-width: 1320px;
+  } 
+
+  .lg\:py-8 { 
+    padding-top: 2rem; 
+    padding-bottom: 2rem;
+  } 
+}     
+
+p { 
+    font-size:  1em; 
+    letter-spacing:  .03em; 
+    line-height:  1.5em;
+    margin: 0;
+} 
+
+.mb-5 { 
+    margin-bottom: 1.25rem;
+} 
+
+.ml-5 { 
+    margin-left: 1.25rem;
+} 
+
+.whitespace-nowrap { 
+    white-space: nowrap;
+} 
+
+.font-body { 
+    font-family: CohereText,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;
+} 
+
+.text-3xs { 
+    font-size:  .75rem; 
+    line-height:  136%;
+    letter-spacing: .08em;
+} 
+
+.uppercase { 
+    text-transform: uppercase;
+} 
+
+.text-white { 
+    --tw-text-opacity: 1; 
+    color: rgb(250 250 250/var(--tw-text-opacity));
+} 
+
+@media (min-width: 768px){ 
+  .md\:mx-12 { 
+    margin-left: 3rem; 
+    margin-right: 3rem;
+  } 
+
+  .md\:mb-0 { 
+    margin-bottom: 0;
+  } 
+}     
+
+.relative { 
+    position: relative;
+} 
+
+.overflow-hidden { 
+    overflow: hidden;
+} 
+
+.absolute { 
+    position: absolute;
+} 
+
+.top-0 { 
+    top: 0;
+} 
+
+.z-50 { 
+    z-index: 50;
+} 
+
+.w-\[100px\] { 
+    width: 100px;
+} 
+
+@media (min-width: 768px){ 
+  .md\:bg-gradient-to-r { 
+    background-image: linear-gradient(to right,var(--tw-gradient-stops));
+  } 
+
+  .md\:from-volcanic-900 { 
+    --tw-gradient-from: #212121; 
+    --tw-gradient-to: rgba(33,33,33,0); 
+    --tw-gradient-stops: var(--tw-gradient-from),var(--tw-gradient-to);
+  } 
+}     
+
+.h-8 { 
+    height: 2rem;
+} 
+
+.animate-scroll { 
+    animation: scroll 40s linear infinite;
+} 
+
+.items-center { 
+    align-items: center;
+} 
+
+.justify-around { 
+    justify-content: space-around;
+} 
+
+@media (min-width: 1024px){ 
+  .lg\:h-10 { 
+    height: 2.5rem;
+  } 
+}     
+
+.right-0 { 
+    right: 0;
+} 
+
+@media (min-width: 768px){ 
+  .md\:bg-gradient-to-l { 
+    background-image: linear-gradient(to left,var(--tw-gradient-stops));
+  } 
+
+  .md\:p-1 { 
+    padding: .25rem;
+  } 
+}     
+
+@media (min-width: 1024px){ 
+  .lg\:px-2 { 
+    padding-left: .5rem; 
+    padding-right: .5rem;
+  } 
+
+  .lg\:py-2 { 
+    padding-top: .5rem; 
+    padding-bottom: .5rem;
+  } 
+}     
+
+img { 
+    display:  block; 
+    vertical-align:  middle;
+    max-width: 100%; 
+    height: auto;
+} 
+
+.h-auto { 
+    height: auto;
+} 
+
+.\!h-10 { 
+    height: 2.5rem!important;
+} 
+
+.object-contain { 
+    -o-object-fit: contain; 
+    object-fit: contain;
+} 
+
+
+@keyframes scroll { 
+  0% {  
+      transform: translateX(0); 
+      transform: translateX(0px); 
+  }  
+  100% {  
+      transform: translateX(-100%); 
+      transform: translateX(-100%); 
+  }  
+
+} 
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-VHz76.style-VHz76 {  
+   min-width:2860px;  
+}  
+#style-otONx.style-otONx {  
+   color:transparent;  
+}  
+#style-ZkrPq.style-ZkrPq {  
+   color:transparent;  
+}  
+#style-zm3ni.style-zm3ni {  
+   color:transparent;  
+}  
+#style-7faAL.style-7faAL {  
+   color:transparent;  
+}  
+#style-ftp9P.style-ftp9P {  
+   color:transparent;  
+}  
+#style-joYBX.style-joYBX {  
+   color:transparent;  
+}  
+#style-O9p6E.style-O9p6E {  
+   color:transparent;  
+}  
+#style-gVSyF.style-gVSyF {  
+   color:transparent;  
+}  
+#style-l12Rf.style-l12Rf {  
+   color:transparent;  
+}  
+#style-B5OM1.style-B5OM1 {  
+   color:transparent;  
+}  
+#style-NGMHw.style-NGMHw {  
+   color:transparent;  
+}  
+#style-YNYHj.style-YNYHj {  
+   color:transparent;  
+}  
+#style-kqGDn.style-kqGDn {  
+   color:transparent;  
+}  
+#style-3pMO2.style-3pMO2 {  
+   min-width:2860px;  
+}  
+#style-tFhjU.style-tFhjU {  
+   color:transparent;  
+}  
+#style-Ol93q.style-Ol93q {  
+   color:transparent;  
+}  
+#style-SATXs.style-SATXs {  
+   color:transparent;  
+}  
+#style-N8RL9.style-N8RL9 {  
+   color:transparent;  
+}  
+#style-3FVZ1.style-3FVZ1 {  
+   color:transparent;  
+}  
+#style-dIp9e.style-dIp9e {  
+   color:transparent;  
+}  
+#style-lYlXT.style-lYlXT {  
+   color:transparent;  
+}  
+#style-whV8O.style-whV8O {  
+   color:transparent;  
+}  
+#style-wBjcN.style-wBjcN {  
+   color:transparent;  
+}  
+#style-8VHd4.style-8VHd4 {  
+   color:transparent;  
+}  
+#style-h5sgm.style-h5sgm {  
+   color:transparent;  
+}  
+#style-1VOJ3.style-1VOJ3 {  
+   color:transparent;  
+}  
+#style-5CoHR.style-5CoHR {  
+   color:transparent;  
+}  

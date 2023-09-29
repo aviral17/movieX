@@ -1,0 +1,95 @@
+Link ----------> https://codepen.io/jackarmley/pen/WvGJPB
+
+
+
+A) HTML (Pug)
+
+.word
+
+B) CSS (SCSS)
+
+//// Make long shadows
+/// @param {Number} $num [1] - number of shadows to make
+/// @param {Color} $color [white] - color of shadows
+@function longshadow($num,$color: white){
+  $shadow: '';
+  $i: 0;
+  @for $i from 1 through $num{
+    $shadow: $shadow + (1 * $i) + 'px' + ' ' + (1 * ($i * 2)) + 'px' + ' ' + $color;
+    @if $i < $num{
+      $shadow: $shadow + ', ';
+    }
+  }
+  @return unquote($shadow);
+}
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+
+$key: #55A4E9;
+
+html{
+  height: 100%;
+}
+body{
+  display: flex;
+  height: 100%;
+  background-color: $key;
+}
+.word{
+  margin: auto;
+  color: white;
+  font: 700 normal 4em/1.5 'Montserrat',sans-serif;
+  text-shadow: longshadow(10,darken($key,10%));
+}
+
+
+JS (JAVASCRIPT) 
+
+var
+  words = ['Welcome','MovieX','Enjoy.'],
+  part,
+  i = 0,
+  offset = 0,
+  len = words.length,
+  forwards = true,
+  skip_count = 0,
+  skip_delay = 5,
+  speed = 100;
+
+var wordflick = function(){
+  setInterval(function(){
+      if (forwards) {
+        if(offset >= words[i].length){
+          ++skip_count;
+          if (skip_count == skip_delay) {
+            forwards = false;
+            skip_count = 0;
+          }
+        }
+      }
+      else {
+         if(offset == 0){
+            forwards = true;
+            i++;
+            offset = 0;
+            if(i >= len){
+              i=0;
+            } 
+         }
+      }
+      part = words[i].substr(0, offset);
+      if (skip_count == 0) {
+        if (forwards) {
+          offset++;
+        }
+        else {
+          offset--;
+        }
+      }
+    	$('.word').text(part);
+  },speed);
+};
+
+$(document).ready(function(){
+  wordflick();
+});

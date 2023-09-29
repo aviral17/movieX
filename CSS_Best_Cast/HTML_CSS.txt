@@ -1,0 +1,295 @@
+HTML: 
+
+<div class="trust_logo-card-inner-v4-marquee snipcss-6S9Xw">
+  <div class="marquee">
+    <div class="marquee_right-opner is-trusted">
+    </div>
+    <div class="maruee_left-opner is-trusted">
+    </div>
+    <div class="marquee_track">
+      <div data-dark-mode="flex" class="marquee_flex">
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de0390_Deel%20svg%20(1).svg" loading="lazy" alt="Our Partners - Deel" class="trustby-logo-v4">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de048e_webflow-light-logo.webp" loading="lazy" alt="Our Partners - Webflow" class="trustby-logo-v4 is-webflow">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de0391_DoNotPay%20svg.svg" loading="lazy" alt="Our Partners - DoNotPay" class="trustby-logo-v4 is-donotpay">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04ab_ogara.svg" loading="lazy" alt="Our Partners - Ogara" class="trustby-logo-v4 is-9">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64c296766f5f0345565280a3_immutablex.png" loading="lazy" alt="Our Partners - ImmutableX" class="trustby-logo-v4 is-x">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04ac_monday.svg" loading="lazy" alt="Our Partners - monday.com" class="trustby-logo-v4 is-13">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04af_mrc.svg" loading="eager" alt="Our Partners - MRC" class="trustby-logo-v4 is-6">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04ad_filevine.svg" loading="eager" alt="Our Partners - Filevine" class="trustby-logo-v4 is-9">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04b0_ultraviolet.png" loading="eager" alt="Our Partners - Ultraviolet" class="trustby-logo-v4 is-13">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04ae_flexcode.svg" loading="eager" alt="Our Partners - Flexcode" class="trustby-logo-v4 is-11">
+        </div>
+      </div>
+      <div data-dark-mode="flex" class="marquee_flex">
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de0390_Deel%20svg%20(1).svg" loading="lazy" alt="Our Partners - Deel" class="trustby-logo-v4">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de048e_webflow-light-logo.webp" loading="lazy" alt="Our Partners - Webflow" class="trustby-logo-v4 is-webflow">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de0391_DoNotPay%20svg.svg" loading="lazy" alt="Our Partners - DoNotPay" class="trustby-logo-v4 is-donotpay">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04ab_ogara.svg" loading="lazy" alt="Our Partners - Ogara" class="trustby-logo-v4 is-9">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64c296766f5f0345565280a3_immutablex.png" loading="lazy" alt="Our Partners - ImmutableX" class="trustby-logo-v4 is-x">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04ac_monday.svg" loading="lazy" alt="Our Partners - monday.com" class="trustby-logo-v4 is-13">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04af_mrc.svg" loading="lazy" alt="Our Partners - MRC" class="trustby-logo-v4 is-6">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04ad_filevine.svg" loading="lazy" alt="Our Partners - Filevine" class="trustby-logo-v4 is-9">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04b0_ultraviolet.png" loading="lazy" alt="Our Partners - ImmutableX" class="trustby-logo-v4 is-13">
+        </div>
+        <div class="marquee-trust-item">
+          <img src="https://assets-global.website-files.com/64bec00f5fd20501f7ddfef3/64bec00f5fd20501f7de04ae_flexcode.svg" loading="lazy" alt="Our Partners - ImmutableX" class="trustby-logo-v4 is-11">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+CSS: 
+
+@import url('https://fonts.googleapis.com/css?family=Outfit:100,200,300,400,500,600,700,800,900&display=swap'); 
+* { 
+    box-sizing:  border-box;
+    outline: none;
+} 
+
+.trust_logo-card { 
+    width: 100%; 
+    height: 100%; 
+    max-width: 73.125rem; 
+    background-image: linear-gradient(105deg,rgba(50,69,244,.3) 9%,rgba(158,211,240,.3) 90%); 
+    border-radius: 17rem; 
+    align-items: center; 
+    padding: 1px; 
+    display: flex; 
+    overflow: hidden;
+} 
+
+.trusted-by-container { 
+    grid-row-gap: 2.5rem; 
+    flex-direction: column; 
+    align-items: center; 
+    display: flex; 
+    position: relative;
+} 
+
+.page-padding { 
+    grid-column-gap: 12px; 
+    grid-row-gap: 12px; 
+    padding-left: 5%; 
+    padding-right: 5%;
+} 
+
+.container-medium { 
+    width:  100%; 
+    max-width:  90rem; 
+    margin-left:  auto !important;
+    margin-right:  auto !important; 
+} 
+
+.section_trusted-by { 
+    position: relative;
+} 
+
+.main-wrapper { 
+    position: relative;
+} 
+
+.overflow-x_hidden { 
+    overflow-x: hidden;
+} 
+
+.page-wrapper { 
+    position: relative;
+} 
+
+body { 
+    margin:   0; 
+    min-height:  100%; 
+    color:  #bbb; 
+    background-color:  #050505; 
+    font-family:  Outfit,sans-serif; 
+    font-size:  1rem; 
+    line-height:  1.2;
+    font-weight: 400; 
+} 
+
+html { 
+    -ms-text-size-adjust:  100%; 
+    -webkit-text-size-adjust:  100%; 
+    font-family:  sans-serif;
+    height: 100%;
+} 
+
+.trust_logo-card-inner-v4-marquee { 
+    width: 100%; 
+    grid-column-gap: 3rem; 
+    grid-row-gap: 4rem; 
+    background-color: #050505; 
+    background-image: linear-gradient(rgba(95,90,159,.04),rgba(95,90,159,.04)); 
+    border-radius: 17rem; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    align-items: center; 
+    padding: 5rem 2rem; 
+    display: flex; 
+    position: relative;
+} 
+
+@media screen and (min-width: 1280px){ 
+  .trust_logo-card-inner-v4-marquee { 
+    grid-column-gap: 5.94rem;
+  } 
+}     
+
+.marquee { 
+    width: 100%; 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: flex; 
+    position: relative; 
+    overflow: hidden;
+} 
+
+.marquee_right-opner { 
+    z-index: 1; 
+    width: 4.5rem; 
+    height: 100%; 
+    background-image: linear-gradient(270deg,#0c0e19,transparent); 
+    position: absolute; 
+    top: 0%; 
+    bottom: auto; 
+    left: auto; 
+    right: 0%;
+} 
+
+.marquee_right-opner.is-trusted { 
+    background-image: linear-gradient(270deg,#09080b,transparent);
+} 
+
+.maruee_left-opner { 
+    z-index: 1; 
+    width: 4.5rem; 
+    height: 100%; 
+    background-image: linear-gradient(90deg,#101226,transparent); 
+    position: absolute; 
+    top: 0%; 
+    bottom: 0%; 
+    left: 0%; 
+    right: auto;
+} 
+
+.maruee_left-opner.is-trusted { 
+    background-image: linear-gradient(90deg,#09080b,transparent);
+} 
+
+.marquee_track { 
+    display:  flex;
+    flex-direction:  row; 
+    flex:  none; 
+    justify-content:  flex-start; 
+    align-items:  flex-start; 
+    white-space: nowrap; 
+    will-change: transform; 
+    animation: marquee 35s linear infinite;
+} 
+
+.marquee_flex { 
+    justify-content: flex-start; 
+    align-items: center; 
+    display: flex;
+} 
+
+.marquee-trust-item { 
+    opacity: .7; 
+    margin-right: 4rem;
+} 
+
+img { 
+    display: inline-block;
+    border:  0;
+    max-width: 100%; 
+    vertical-align: middle; 
+} 
+
+.trustby-logo-v4 { 
+    z-index: 500; 
+    width: 7.25rem; 
+    height: 2.5rem; 
+    object-fit: contain;
+} 
+
+.trustby-logo-v4.is-webflow { 
+    width: 8.38rem;
+} 
+
+.trustby-logo-v4.is-donotpay { 
+    width: 9.25rem;
+} 
+
+.trustby-logo-v4.is-9 { 
+    width: 9rem;
+} 
+
+.trustby-logo-v4.is-x { 
+    width: 13rem; 
+    height: 3.06rem; 
+    max-width: none;
+} 
+
+.trustby-logo-v4.is-13 { 
+    width: 13rem;
+} 
+
+.trustby-logo-v4.is-6 { 
+    width: 6rem;
+} 
+
+.trustby-logo-v4.is-11 { 
+    width: 11rem;
+} 
+
+
+@keyframes marquee { 
+  0% {  
+      transform: translateX(0); 
+      transform: translateX(0px); 
+  }  
+  100% {  
+      transform: translateX(-50%); 
+      transform: translateX(-50%); 
+  }  
+
+} 

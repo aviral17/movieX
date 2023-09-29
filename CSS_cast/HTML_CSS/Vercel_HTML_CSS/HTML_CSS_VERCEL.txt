@@ -1,0 +1,682 @@
+HTML:
+
+
+<div class="stack_stack__77KWN stack carousel_logo-carousel__hBm2P snipcss0-0-0-1 snipcss-zKGDH style-TzLRJ" data-version="v1" id="style-TzLRJ">
+  <div class="tiny-heading_heading__4Znu5 tiny-heading_small-margin__qfAPz snipcss0-1-1-2">
+    <small class="jsx-2423190812 text_text__tVl7E text_small__ke4_O geist-themed geist-secondary geist-text-no-margin text_noMargin__uy__0 text_center__uKEGZ text_themed__eHOst snipcss0-2-2-3 style-A4sia" id="style-A4sia">
+      Trusted by the best frontend&nbsp;teams
+    </small>
+  </div>
+  <div class="carousel_carousel__RWPAh snipcss0-1-1-4 style-ekMoL" id="style-ekMoL">
+    <div class="carousel_track__0YsGj snipcss0-2-4-5 style-ahG9S" id="style-ahG9S">
+      <ul aria-hidden="false" class="carousel_slides__wicvV snipcss0-3-5-6">
+        <div class="carousel_slides__wicvV carousel_logos__2k6ph snipcss0-4-6-7">
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-8">
+            <img data-version="v1" alt="Netflix Logo" loading="eager" width="113.89999999999999" height="30.599999999999998" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/netflix.svg" class="snipcss0-6-8-9 style-MGjpE" id="style-MGjpE">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-10">
+            <img data-version="v1" alt="Underarmour Logo" loading="eager" width="70.55" height="40.8" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/under-armour.svg" class="snipcss0-6-10-11 style-9QtZK" id="style-9QtZK">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-12">
+            <img data-version="v1" alt="Okta Logo" loading="eager" width="79.56" height="26.520000000000003" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/okta.svg" class="snipcss0-6-12-13 style-PjnVG" id="style-PjnVG">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-14">
+            <img data-version="v1" alt="Adobe Logo" loading="eager" width="116.28" height="30.599999999999998" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/adobe.svg" class="snipcss0-6-14-15 style-HwLwW" id="style-HwLwW">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-16">
+            <img data-version="v1" alt="Patreon Logo" loading="eager" width="96.38999999999999" height="13.26" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/patreon.svg" class="snipcss0-6-16-17 style-z7lUi" id="style-z7lUi">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-18">
+            <img data-version="v1" alt="eBay Logo" loading="eager" width="81.6" height="32.64" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/ebay.svg" class="snipcss0-6-18-19 style-dPsdr" id="style-dPsdr">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-20">
+            <img data-version="v1" alt="HashiCorp Logo" loading="eager" width="131.92000000000002" height="36.72" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/hashicorp.svg" class="snipcss0-6-20-21 style-CO4pm" id="style-CO4pm">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-22">
+            <img data-version="v1" alt="Tailwindcss Logo" loading="eager" width="179.52" height="22.44" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/tailwindcss.svg" class="snipcss0-6-22-23 style-SoOwp" id="style-SoOwp">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-24">
+            <img data-version="v1" alt="Washington Post Logo" loading="eager" width="212.2875" height="32.895" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/washingtonpost.svg" class="snipcss0-6-24-25 style-YIeCJ" id="style-YIeCJ">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-26">
+            <img data-version="v1" alt="Hulu Logo" loading="eager" width="62.22" height="20.4" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/hulu.svg" class="snipcss0-6-26-27 style-qhIoL" id="style-qhIoL">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-28">
+            <img data-version="v1" alt="Meta Logo" loading="eager" width="127.5" height="25.5" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/meta.svg" class="snipcss0-6-28-29 style-blAGd" id="style-blAGd">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-7-30">
+            <img data-version="v1" alt="Tripadvisor Logo" loading="eager" width="161.5" height="24.65" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/tripadvisor-horizontal.svg" class="snipcss0-6-30-31 style-oyQdT" id="style-oyQdT">
+          </div>
+        </div>
+      </ul>
+      <ul aria-hidden="true" class="carousel_slides__wicvV snipcss0-3-5-32">
+        <div class="carousel_slides__wicvV carousel_logos__2k6ph snipcss0-4-32-33">
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-34">
+            <img data-version="v1" alt="Netflix Logo" loading="eager" width="113.89999999999999" height="30.599999999999998" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/netflix.svg" class="snipcss0-6-34-35 style-fMbOT" id="style-fMbOT">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-36">
+            <img data-version="v1" alt="Underarmour Logo" loading="eager" width="70.55" height="40.8" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/under-armour.svg" class="snipcss0-6-36-37 style-2WoCh" id="style-2WoCh">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-38">
+            <img data-version="v1" alt="Okta Logo" loading="eager" width="79.56" height="26.520000000000003" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/okta.svg" class="snipcss0-6-38-39 style-x6sYJ" id="style-x6sYJ">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-40">
+            <img data-version="v1" alt="Adobe Logo" loading="eager" width="116.28" height="30.599999999999998" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/adobe.svg" class="snipcss0-6-40-41 style-3Q7TI" id="style-3Q7TI">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-42">
+            <img data-version="v1" alt="Patreon Logo" loading="eager" width="96.38999999999999" height="13.26" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/patreon.svg" class="snipcss0-6-42-43 style-AU9IR" id="style-AU9IR">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-44">
+            <img data-version="v1" alt="eBay Logo" loading="eager" width="81.6" height="32.64" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/ebay.svg" class="snipcss0-6-44-45 style-Y9ePw" id="style-Y9ePw">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-46">
+            <img data-version="v1" alt="HashiCorp Logo" loading="eager" width="131.92000000000002" height="36.72" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/hashicorp.svg" class="snipcss0-6-46-47 style-oFF6Y" id="style-oFF6Y">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-48">
+            <img data-version="v1" alt="Tailwindcss Logo" loading="eager" width="179.52" height="22.44" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/tailwindcss.svg" class="snipcss0-6-48-49 style-h4f6R" id="style-h4f6R">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-50">
+            <img data-version="v1" alt="Washington Post Logo" loading="eager" width="212.2875" height="32.895" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/washingtonpost.svg" class="snipcss0-6-50-51 style-nN4vU" id="style-nN4vU">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-52">
+            <img data-version="v1" alt="Hulu Logo" loading="eager" width="62.22" height="20.4" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/hulu.svg" class="snipcss0-6-52-53 style-JtcAc" id="style-JtcAc">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-54">
+            <img data-version="v1" alt="Meta Logo" loading="eager" width="127.5" height="25.5" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/meta.svg" class="snipcss0-6-54-55 style-xCGQy" id="style-xCGQy">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-33-56">
+            <img data-version="v1" alt="Tripadvisor Logo" loading="eager" width="161.5" height="24.65" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/tripadvisor-horizontal.svg" class="snipcss0-6-56-57 style-VJqJC" id="style-VJqJC">
+          </div>
+        </div>
+      </ul>
+      <ul aria-hidden="true" class="carousel_slides__wicvV snipcss0-3-5-58">
+        <div class="carousel_slides__wicvV carousel_logos__2k6ph snipcss0-4-58-59">
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-60">
+            <img data-version="v1" alt="Netflix Logo" loading="eager" width="113.89999999999999" height="30.599999999999998" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/netflix.svg" class="snipcss0-6-60-61 style-jHQSx" id="style-jHQSx">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-62">
+            <img data-version="v1" alt="Underarmour Logo" loading="eager" width="70.55" height="40.8" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/under-armour.svg" class="snipcss0-6-62-63 style-1Ct3K" id="style-1Ct3K">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-64">
+            <img data-version="v1" alt="Okta Logo" loading="eager" width="79.56" height="26.520000000000003" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/okta.svg" class="snipcss0-6-64-65 style-BN3dv" id="style-BN3dv">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-66">
+            <img data-version="v1" alt="Adobe Logo" loading="eager" width="116.28" height="30.599999999999998" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/adobe.svg" class="snipcss0-6-66-67 style-oEEK9" id="style-oEEK9">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-68">
+            <img data-version="v1" alt="Patreon Logo" loading="eager" width="96.38999999999999" height="13.26" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/patreon.svg" class="snipcss0-6-68-69 style-WcXKP" id="style-WcXKP">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-70">
+            <img data-version="v1" alt="eBay Logo" loading="eager" width="81.6" height="32.64" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/ebay.svg" class="snipcss0-6-70-71 style-zf8kM" id="style-zf8kM">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-72">
+            <img data-version="v1" alt="HashiCorp Logo" loading="eager" width="131.92000000000002" height="36.72" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/hashicorp.svg" class="snipcss0-6-72-73 style-njeUQ" id="style-njeUQ">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-74">
+            <img data-version="v1" alt="Tailwindcss Logo" loading="eager" width="179.52" height="22.44" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/tailwindcss.svg" class="snipcss0-6-74-75 style-oOkYE" id="style-oOkYE">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-76">
+            <img data-version="v1" alt="Washington Post Logo" loading="eager" width="212.2875" height="32.895" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/washingtonpost.svg" class="snipcss0-6-76-77 style-sbzFK" id="style-sbzFK">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-78">
+            <img data-version="v1" alt="Hulu Logo" loading="eager" width="62.22" height="20.4" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/hulu.svg" class="snipcss0-6-78-79 style-JwvLZ" id="style-JwvLZ">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-80">
+            <img data-version="v1" alt="Meta Logo" loading="eager" width="127.5" height="25.5" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/meta.svg" class="snipcss0-6-80-81 style-Mx6Ks" id="style-Mx6Ks">
+          </div>
+          <div class="carousel_slide__HDLd_ snipcss0-5-59-82">
+            <img data-version="v1" alt="Tripadvisor Logo" loading="eager" width="161.5" height="24.65" decoding="async" data-nimg="1" src="https://assets.vercel.com/image/upload/front/home/new/logos/tripadvisor-horizontal.svg" class="snipcss0-6-82-83 style-mqDd2" id="style-mqDd2">
+          </div>
+        </div>
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+CSS:
+
+ body { 
+/* CSS Variables that may have been missed get put on body */ 
+    --stack-gap:  var(--lg-stack-gap,var(--md-stack-gap,var(--sm-stack-gap))); 
+    --feature-gap:  60px; 
+    --feature-gap:  80px; 
+    --geist-foreground:  #fff;  
+    --geist-background:  #000;  
+    --geist-selection:  var(--geist-highlight-purple);  
+    --accents-7:  #eaeaea;  
+    --accents-5:  #888;  
+    --accents-3:  #444;  
+    --accents-2:  #333;  
+    --accents-1:  #111;  
+    --geist-secondary-lighter:  var(--accents-2);  
+    --geist-secondary-light:  var(--accents-3);  
+    --geist-secondary:  var(--accents-5);  
+    --geist-secondary-dark:  var(--accents-7);  
+    --geist-link-color:  var(--geist-success-light);  
+    --geist-marketing-gray:  var(--accents-1);  
+    --geist-code:  var(--geist-foreground);  
+    --dropdown-box-shadow:  0 0 0 1px var(--accents-2);  
+    --shadow-smallest:  0 0 0 1px var(--accents-2);  
+    --shadow-extra-small:  0 0 0 1px var(--accents-2);  
+    --shadow-small:  0 0 0 1px var(--accents-2);  
+    --shadow-medium:  0 0 0 1px var(--accents-2);  
+    --shadow-large:  0 0 0 1px var(--accents-2);  
+    --shadow-sticky:  0 0 0 1px var(--accents-2);  
+    --shadow-hover:  0 0 0 1px var(--geist-foreground);  
+    --geist-console-text-color-default:  var(--geist-foreground);  
+    --ds-shadow-base:  0 0 0 1px hsla(0,0%,100%,.145);  
+    --ds-shadow-base: 0 0 0 1px rgba(0,0,0,.08); 
+    --ds-shadow-small:  var(--ds-shadow-base),0px 1px 2px rgba(0,0,0,.16);  
+    --ds-shadow-medium:  var(--ds-shadow-base),0px 2px 2px rgba(0,0,0,.32),0px 8px 8px -8px rgba(0,0,0,.16);  
+    --ds-shadow-large:  var(--ds-shadow-base),0px 2px 2px rgba(0,0,0,.04),0px 8px 16px -4px rgba(0,0,0,.04);  
+    --ds-shadow-tooltip:  var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 4px 8px rgba(0,0,0,.04);  
+    --ds-shadow-menu:  var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 4px 8px -4px rgba(0,0,0,.04),0px 16px 24px -8px rgba(0,0,0,.06);  
+    --ds-shadow-modal:  var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 8px 16px -4px rgba(0,0,0,.04),0px 24px 32px -8px rgba(0,0,0,.06);  
+    --ds-shadow-fullscreen:  var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 8px 16px -4px rgba(0,0,0,.04),0px 24px 32px -8px rgba(0,0,0,.06); 
+    --ds-gray-1000:  #ededed;  
+    --ds-gray-alpha-600:  hsla(0,0%,100%,.51);  
+    --ds-blue-800:  #0062d1;  
+    --ds-background-100:  #0a0a0a;  
+    --ds-gray-alpha-600: rgba(0,0,0,.34); 
+    --ds-focus-border:  0 0 0 1px var(--ds-gray-alpha-600),0px 0px 0px 4px hsla(0,0%,100%,.24);  
+    --ds-background-100: #fff; 
+    --ds-blue-800: #0062d1; 
+    --ds-focus-ring:  0 0 0 1px var(--ds-background-100),0 0 0 3px var(--ds-blue-800); 
+    --font-sans:  "__Inter_0ec1f4","__Inter_Fallback_0ec1f4"; 
+    --size:  1rem;  
+    --themed-fg:  var(--geist-secondary);  
+    --themed-bg:  var(--geist-background);  
+    --themed-border:  var(--themed-fg); 
+} 
+
+/* * { 
+    box-sizing: border-box;
+} I have commented this one in this notepad */  
+
+.carousel_logo-carousel__hBm2P .carousel_logos__2k6ph  { 
+    margin-top: .25rem;
+} 
+
+.carousel_carousel__RWPAh .carousel_track__0YsGj .carousel_slides__wicvV  { 
+    margin-top: 0; 
+    display: inline-flex; 
+    justify-content: space-between;
+} 
+
+.carousel_logo-carousel__hBm2P ul  { 
+    list-style: none; 
+    padding-left: 0; 
+    margin-left: 0; 
+    margin-right: 0; 
+    padding-right: 0;
+} 
+
+.carousel_carousel__RWPAh .carousel_track__0YsGj  { 
+    will-change: transform; 
+    width: 100%; 
+    z-index: -2; 
+    animation-name: carousel_scroll__EPnMS; 
+    animation-timing-function: linear; 
+    animation-iteration-count: infinite; 
+    display: flex; 
+    transition: opacity .25s ease-in-out;
+} 
+
+.carousel_carousel__RWPAh { 
+    max-width: 100vw; 
+    width: 100%; 
+    position: relative; 
+    display: grid; 
+    place-items: center; 
+    overflow: hidden; 
+    left: 0; 
+    top: 0; 
+    -webkit-mask-image: linear-gradient(90deg,transparent,#fff 90px,#fff calc(100% - 90px),transparent); 
+    mask-image: linear-gradient(90deg,transparent,#fff 90px,#fff calc(100% - 90px),transparent); 
+    transition: opacity .2s ease-out; 
+    -webkit-perspective: 1000; 
+    -webkit-backface-visibility: hidden; 
+    -webkit-transform: translateZ(0);
+} 
+
+.stack_stack__77KWN { 
+    display: flex; 
+    flex-direction: var(--stack-direction,column); 
+    align-items: var(--stack-align,stretch); 
+    justify-content: var(--stack-justify,flex-start); 
+    flex: var(--stack-flex,initial); 
+    gap: var(--stack-gap,0);
+} 
+
+@media screen and (min-width: 961px){ 
+  .stack_stack__77KWN { 
+    --stack-direction: var(
+    ); 
+    --stack-align: var(
+    ); 
+    --stack-justify: var(
+    ); 
+    ); 
+    --stack-gap: var(--lg-stack-gap,var(--md-stack-gap,var(--sm-stack-gap)));
+  } 
+}     
+
+.carousel_logo-carousel__hBm2P { 
+    -webkit-user-select: none; 
+    user-select: none;
+} 
+
+.geist-wrapper { 
+    max-width: 100%; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: var(--geist-page-width-with-margin); 
+    padding-left: var(--geist-page-margin); 
+    padding-right: var(--geist-page-margin);
+} 
+
+.pricing-page_testimonialsWrapperMotion__khxsv { 
+    margin-block: 140px calc(var(--feature-gap) * 1.5);
+} 
+
+.pricing-page_root__1UFNP { 
+    --feature-gap: 60px;
+} 
+
+@media screen and (min-width: 960px){ 
+  .pricing-page_root__1UFNP { 
+    --feature-gap: 80px;
+  } 
+}     
+
+.screen_geist_screen__JT1Q7 { 
+    min-height: 100vh; 
+    position: relative;
+} 
+
+#__next { 
+    position: relative; 
+    z-index: 0;
+} 
+
+:where(html, body) { 
+    height: "100%";
+} 
+
+body { 
+    position:  relative; 
+    font-size:  100%; 
+    min-height:  100%; 
+    max-width:  100vw; 
+    margin:  0;
+    text-rendering: optimizeLegibility; 
+    background-color: var(--geist-background); 
+    color: var(--ds-gray-1000); 
+    scroll-padding-top: var(--header-height); 
+    -webkit-text-size-adjust: 100%; 
+    -moz-text-size-adjust: 100%; 
+    text-size-adjust: 100%; 
+    -webkit-font-smoothing: antialiased; 
+    -moz-osx-font-smoothing: grayscale;
+} 
+
+html body { 
+    font-family: var(--font-sans,var(--font-sans-fallback));
+} 
+
+html { 
+    touch-action:    manipulation; 
+    font-feature-settings:    "rlig" 1,"calt" 0; 
+    text-rendering:  optimizeLegibility; 
+    -webkit-font-smoothing:  antialiased; 
+    -moz-osx-font-smoothing:  grayscale;
+    --banner-height:   0px; 
+    --vh100-offset:   calc(var(--header-height) + var(--banner-height));
+    font-family:  var(--font-sans,var(--font-sans-fallback));
+    background-color: var(--geist-background); 
+    color: var(--ds-gray-1000); 
+    scroll-padding-top: var(--header-height); 
+    -webkit-text-size-adjust: 100%; 
+    -moz-text-size-adjust: 100%; 
+    text-size-adjust: 100%; 
+} 
+
+:root { 
+    font-size:  16px; 
+    --geist-space-2x:  8px; 
+    --geist-space-small:  32px; 
+    --geist-space-medium:  40px; 
+    --geist-space-large:  48px; 
+    --geist-space-gap:  24px; 
+    --geist-space-gap-half:  12px; 
+    --geist-space-gap-quarter:  var(--geist-space-2x); 
+    --geist-gap:  var(--geist-space-gap); 
+    --geist-gap-half:  var(--geist-space-gap-half); 
+    --geist-gap-quarter:  var(--geist-space-gap-quarter); 
+    --geist-gap-double:  var(--geist-space-large); 
+    --geist-gap-section:  var(--geist-space-small); 
+    --geist-space-2x-negative:  -8px; 
+    --geist-space-large-negative:  -48px; 
+    --geist-space-gap-negative:  -24px; 
+    --geist-space-gap-half-negative:  -12px; 
+    --geist-space-gap-quarter-negative:  var(--geist-space-2x-negative); 
+    --geist-gap-negative:  var(--geist-space-gap-negative); 
+    --geist-gap-half-negative:  var(--geist-space-gap-half-negative); 
+    --geist-gap-quarter-negative:  var(--geist-space-gap-quarter-negative); 
+    --geist-gap-double-negative:  var(--geist-space-large-negative); 
+    --geist-page-margin:  var(--geist-space-gap); 
+    --geist-page-width:  1200px; 
+    --geist-page-width-with-margin:  calc(var(--geist-page-width) + calc(2 * var(--geist-page-margin))); 
+    --font-sans-fallback:  "Inter",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif; 
+    --font-space-grotesk:  Space Grotesk,var(--font-sans); 
+    --header-height:  64px; 
+    --geist-form-large-height:  var(--geist-space-large); 
+    --geist-form-small-height:  var(--geist-space-small); 
+    --geist-form-height:  var(--geist-space-medium); 
+    --ds-shadow-base:  0 0 0 1px rgba(0,0,0,.08); 
+    --ds-shadow-small:  var(--ds-shadow-base),0px 1px 2px rgba(0,0,0,.04); 
+    --ds-shadow-medium:  var(--ds-shadow-base),0px 2px 2px rgba(0,0,0,.04),0px 8px 8px -8px rgba(0,0,0,.04); 
+    --ds-shadow-large:  var(--ds-shadow-base),0px 2px 2px rgba(0,0,0,.04),0px 8px 16px -4px rgba(0,0,0,.04); 
+    --ds-shadow-tooltip:  var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 4px 8px rgba(0,0,0,.04); 
+    --ds-shadow-menu:  var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 4px 8px -4px rgba(0,0,0,.04),0px 16px 24px -8px rgba(0,0,0,.06); 
+    --ds-shadow-modal:  var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 8px 16px -4px rgba(0,0,0,.04),0px 24px 32px -8px rgba(0,0,0,.06); 
+    --ds-shadow-fullscreen:  var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 8px 16px -4px rgba(0,0,0,.04),0px 24px 32px -8px rgba(0,0,0,.06);
+    --geist-success-light: #3291ff; 
+    --geist-success: #0070f3; 
+    --geist-console-text-color-default: var(--geist-foreground); 
+    --geist-cyan-light: #79ffe1; 
+    --geist-highlight-purple: #f81ce5; 
+    --geist-foreground: #000; 
+    --geist-background: #fff; 
+    --geist-selection: var(--geist-cyan-light); 
+    --geist-selection-text-color: var(--geist-foreground); 
+    --accents-1: #fafafa; 
+    --accents-2: #eaeaea; 
+    --accents-3: #999; 
+    --accents-5: #666; 
+    --accents-7: #333; 
+    --geist-link-color: var(--geist-success); 
+    --geist-code: var(--geist-foreground); 
+    --geist-secondary-lighter: var(--accents-2); 
+    --geist-secondary-light: var(--accents-3); 
+    --geist-secondary: var(--accents-5); 
+    --geist-secondary-dark: var(--accents-7); 
+} 
+
+.dark-theme { 
+    --geist-foreground: #fff; 
+    --geist-background: #000; 
+    --geist-selection: var(--geist-highlight-purple); 
+    --accents-7: #eaeaea; 
+    --accents-5: #888; 
+    --accents-3: #444; 
+    --accents-2: #333; 
+    --accents-1: #111; 
+    --geist-secondary-lighter: var(--accents-2); 
+    --geist-secondary-light: var(--accents-3); 
+    --geist-secondary: var(--accents-5); 
+    --geist-secondary-dark: var(--accents-7); 
+    --geist-link-color: var(--geist-success-light); 
+    --geist-marketing-gray: var(--accents-1); 
+    --geist-code: var(--geist-foreground); 
+    --dropdown-box-shadow: 0 0 0 1px var(--accents-2); 
+    --shadow-smallest: 0 0 0 1px var(--accents-2); 
+    --shadow-extra-small: 0 0 0 1px var(--accents-2); 
+    --shadow-small: 0 0 0 1px var(--accents-2); 
+    --shadow-medium: 0 0 0 1px var(--accents-2); 
+    --shadow-large: 0 0 0 1px var(--accents-2); 
+    --shadow-sticky: 0 0 0 1px var(--accents-2); 
+    --shadow-hover: 0 0 0 1px var(--geist-foreground); 
+    --geist-console-text-color-default: var(--geist-foreground); 
+    --ds-shadow-base: 0 0 0 1px hsla(0,0%,100%,.145); 
+    --ds-shadow-small: var(--ds-shadow-base),0px 1px 2px rgba(0,0,0,.16); 
+    --ds-shadow-medium: var(--ds-shadow-base),0px 2px 2px rgba(0,0,0,.32),0px 8px 8px -8px rgba(0,0,0,.16); 
+    --ds-shadow-large: var(--ds-shadow-base),0px 2px 2px rgba(0,0,0,.04),0px 8px 16px -4px rgba(0,0,0,.04); 
+    --ds-shadow-tooltip: var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 4px 8px rgba(0,0,0,.04); 
+    --ds-shadow-menu: var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 4px 8px -4px rgba(0,0,0,.04),0px 16px 24px -8px rgba(0,0,0,.06); 
+    --ds-shadow-modal: var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 8px 16px -4px rgba(0,0,0,.04),0px 24px 32px -8px rgba(0,0,0,.06); 
+    --ds-shadow-fullscreen: var(--ds-shadow-base),0px 1px 1px rgba(0,0,0,.02),0px 8px 16px -4px rgba(0,0,0,.04),0px 24px 32px -8px rgba(0,0,0,.06);
+} 
+
+:root { 
+    --ds-gray-1000: #171717; 
+    --ds-gray-alpha-600: rgba(0,0,0,.34); 
+    --ds-blue-800: #0062d1; 
+    --ds-background-100: #fff; 
+    --ds-focus-border: 0 0 0 1px var(--ds-gray-alpha-600),0px 0px 0px 4px rgba(0,0,0,.16); 
+    --ds-focus-ring: 0 0 0 1px var(--ds-background-100),0 0 0 3px var(--ds-blue-800);
+} 
+
+.dark-theme { 
+    --ds-gray-1000: #ededed; 
+    --ds-gray-alpha-600: hsla(0,0%,100%,.51); 
+    --ds-blue-800: #0062d1; 
+    --ds-background-100: #0a0a0a; 
+    --ds-focus-border: 0 0 0 1px var(--ds-gray-alpha-600),0px 0px 0px 4px hsla(0,0%,100%,.24); 
+    --ds-focus-ring: 0 0 0 1px var(--ds-background-100),0 0 0 3px var(--ds-blue-800);
+} 
+
+.__variable_0ec1f4 { 
+    --font-sans: "__Inter_0ec1f4","__Inter_Fallback_0ec1f4";
+} 
+
+.carousel_carousel__RWPAh .carousel_track__0YsGj .carousel_slide__HDLd_  { 
+    align-items: center; 
+    display: flex; 
+    margin-right: var(--geist-gap-double);
+} 
+
+*,:after,:before { 
+    box-sizing: border-box;
+} 
+
+:selection { 
+    background-color: var(--geist-selection); 
+    color: var(--geist-selection-text-color);
+} 
+
+.tiny-heading_heading__4Znu5 { 
+    text-align: center; 
+    margin-bottom: var(--geist-gap-double);
+} 
+
+.tiny-heading_heading__4Znu5.tiny-heading_small-margin__qfAPz { 
+    margin-bottom: var(--geist-gap);
+} 
+
+[class*="tiny-heading"]  { 
+    margin-bottom: 1rem;
+} 
+
+.text_text__tVl7E { 
+    font-family: var(--font-sans); 
+    font-size: var(--size); 
+    margin: var(--geist-gap) 0;
+} 
+
+.text_small__ke4_O { 
+    --size: 1rem; 
+    line-height: 1.5em;
+} 
+
+small.jsx-2423190812 { 
+    font-weight: 700; 
+    text-transform: uppercase;
+} 
+
+.geist-themed.geist-secondary { 
+    --themed-fg: var(--geist-secondary); 
+    --themed-bg: var(--geist-background); 
+    --themed-border: var(--themed-fg);
+} 
+
+.text_text__tVl7E.text_noMargin__uy__0 { 
+    margin: 0;
+} 
+
+.text_text__tVl7E.text_center__uKEGZ { 
+    text-align: center;
+} 
+
+.text_text__tVl7E.text_themed__eHOst { 
+    color: var(--themed-fg);
+} 
+
+.carousel_carousel__RWPAh .carousel_track__0YsGj .carousel_slide__HDLd_ img  { 
+    transform:  translateZ(0);
+    filter: invert(1); 
+    opacity: .85;
+} 
+
+
+@keyframes carousel_scroll__EPnMS { 
+  0% {  
+      transform: translateZ(0); 
+      transform: translateZ(0px); 
+  }  
+  100% {  
+      transform: translate3d(calc(100% / var(--copies) * -1),0,0); 
+      transform: translate3d(calc(100% / var(--copies) * -1),0,0); 
+  }  
+
+} 
+/* These were inline style tags. Uses id+class to override almost everything */
+#style-TzLRJ.style-TzLRJ {  
+   --stack-flex:initial;  
+   --stack-direction:column;  
+   --stack-align:stretch;  
+   --stack-justify:flex-start;  
+   --stack-padding:0px;  
+   --stack-gap:0px;  
+}  
+#style-A4sia.style-A4sia {  
+   font-size:0.75rem;  
+   letter-spacing:0.2rem;  
+   margin-top:0;  
+   padding-left:0.2rem;  
+   color:var(--accents-5);  
+}  
+#style-ekMoL.style-ekMoL {  
+   opacity: 1;  
+    --copies: 3;  
+}  
+#style-ahG9S.style-ahG9S {  
+   animation-duration: 66.6667s;  
+    opacity: 1;  
+}  
+#style-MGjpE.style-MGjpE {  
+   color:transparent;  
+}  
+#style-9QtZK.style-9QtZK {  
+   color:transparent;  
+}  
+#style-PjnVG.style-PjnVG {  
+   color:transparent;  
+}  
+#style-HwLwW.style-HwLwW {  
+   color:transparent;  
+}  
+#style-z7lUi.style-z7lUi {  
+   color:transparent;  
+}  
+#style-dPsdr.style-dPsdr {  
+   color:transparent;  
+}  
+#style-CO4pm.style-CO4pm {  
+   color:transparent;  
+}  
+#style-SoOwp.style-SoOwp {  
+   color:transparent;  
+}  
+#style-YIeCJ.style-YIeCJ {  
+   color:transparent;  
+}  
+#style-qhIoL.style-qhIoL {  
+   color:transparent;  
+}  
+#style-blAGd.style-blAGd {  
+   color:transparent;  
+}  
+#style-oyQdT.style-oyQdT {  
+   color:transparent;  
+}  
+#style-fMbOT.style-fMbOT {  
+   color: transparent;  
+}  
+#style-2WoCh.style-2WoCh {  
+   color: transparent;  
+}  
+#style-x6sYJ.style-x6sYJ {  
+   color: transparent;  
+}  
+#style-3Q7TI.style-3Q7TI {  
+   color: transparent;  
+}  
+#style-AU9IR.style-AU9IR {  
+   color: transparent;  
+}  
+#style-Y9ePw.style-Y9ePw {  
+   color: transparent;  
+}  
+#style-oFF6Y.style-oFF6Y {  
+   color: transparent;  
+}  
+#style-h4f6R.style-h4f6R {  
+   color: transparent;  
+}  
+#style-nN4vU.style-nN4vU {  
+   color: transparent;  
+}  
+#style-JtcAc.style-JtcAc {  
+   color: transparent;  
+}  
+#style-xCGQy.style-xCGQy {  
+   color: transparent;  
+}  
+#style-VJqJC.style-VJqJC {  
+   color: transparent;  
+}  
+#style-jHQSx.style-jHQSx {  
+   color: transparent;  
+}  
+#style-1Ct3K.style-1Ct3K {  
+   color: transparent;  
+}  
+#style-BN3dv.style-BN3dv {  
+   color: transparent;  
+}  
+#style-oEEK9.style-oEEK9 {  
+   color: transparent;  
+}  
+#style-WcXKP.style-WcXKP {  
+   color: transparent;  
+}  
+#style-zf8kM.style-zf8kM {  
+   color: transparent;  
+}  
+#style-njeUQ.style-njeUQ {  
+   color: transparent;  
+}  
+#style-oOkYE.style-oOkYE {  
+   color: transparent;  
+}  
+#style-sbzFK.style-sbzFK {  
+   color: transparent;  
+}  
+#style-JwvLZ.style-JwvLZ {  
+   color: transparent;  
+}  
+#style-Mx6Ks.style-Mx6Ks {  
+   color: transparent;  
+}  
+#style-mqDd2.style-mqDd2 {  
+   color: transparent;  
+}  
+
+
+
